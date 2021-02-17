@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const noteRoutes = require('../apiRoutes/noteRoutes');
+const noteRoutes = require('./noteRoutes.js');
 
 router.use(noteRoutes);
 
