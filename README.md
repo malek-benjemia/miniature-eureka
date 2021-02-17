@@ -17,7 +17,7 @@ Build an express server that delivers an application allowing to write notes and
 Install npm and express.js. Please don't forget to properly set the gitignore file.
 
 ## <span id="usage">Usage</span>
-Use it to manage a task list.
+Use it to manage a task list. In the command line (bash) enter npm start, then go to your <a href ="http//:localhost:3001/">localhost</a>. Alternatively, you can use <a href="https://task-notes-mbj.herokuapp.com/">Heroku</a> to access the application.
 
 ## <span id="license">License</span>
 This application is covered under no licence.
